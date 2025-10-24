@@ -1,0 +1,11 @@
+# Do not edit - changes here will be overwritten by Copier
+_commit: v1
+_src_path: gh:pydev-guide/pyrepo-copier
+author_email: jojotux123@hotmail.com
+author_name: Johannes Elferich
+github_username: jojoelfe
+mode: tooling
+module_name: torch_power_weighted_projection
+project_name: torch-power-weighted-projection
+project_short_description: Create power weighted projections of volumes
+
